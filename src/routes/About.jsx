@@ -5,9 +5,9 @@ export default function About() {
         <>
             <div id="about">
                 <div>
-                    <img src="\web2-pokedex\assets\sinnoh_logo.png" alt="A Sinnoh battle hall logo i found online!"/>
+                    <img src="\assets\sinnoh_logo.png" alt="A Sinnoh battle hall logo i found online!"/>
                     <h2>About!</h2>
-                    <img src="\web2-pokedex\assets\sinnoh_logo.png" alt="A Sinnoh battle hall logo i found online!"/>
+                    <img src="\assets\sinnoh_logo.png" alt="A Sinnoh battle hall logo i found online!"/>
                 </div>
                 <p>
                     This is our (Group 7!) submition for the second course assignment of the second web course. <br/>
