@@ -33,7 +33,7 @@ export default function Root() {
     return (
         <>
             <div id="navbar">
-                <img src="src\assets\pokedex_logo.png"/>
+                <img src="/web2-pokedex/assets/pokedex_logo.png" alt="A pokedex logo!"/>
                 <nav>
                     <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
